@@ -22,6 +22,7 @@ source_code_url: https://github.com/DroidsOnRoids/bitrise-step-sonarqube-scanner
 support_url: https://github.com/DroidsOnRoids/bitrise-step-sonarqube-scanner/issues
 type_tags:
 - utility
+- security
 deps:
   apt_get:
   - name: unzip
